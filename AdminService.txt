@@ -1,0 +1,7 @@
+Add and remove srever
+
+<<<<<<< HEAD
+maangae databse;ll
+=======
+Manging databesdf
+>>>>>>> feature2
