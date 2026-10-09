@@ -1,2 +1,4 @@
 GEt data from userrr!!
 processs....
+
+create avtar for user
